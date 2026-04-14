@@ -1,8 +1,8 @@
-# TrueX — Real-time Media Risk Intelligence System
+# Insight-Grid — Real-time Media Risk Intelligence System
 
 > **Monitor threats. Verify facts. Stay ahead of misinformation.**
 
-TrueX is an AI-powered, real-time media risk intelligence platform built for India. It aggregates live news from across the country, classifies threats by category and severity, and lets users instantly verify any news headline or claim using AI fact-checking (Perplexity + NewsAPI).
+Insight-Grid is an AI-powered, real-time media risk intelligence platform built for India. It aggregates live news from across the country, classifies threats by category and severity, and lets users instantly verify any news headline or claim using AI fact-checking (Perplexity + NewsAPI).
 
 ---
 
